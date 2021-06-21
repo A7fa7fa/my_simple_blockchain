@@ -1,0 +1,7 @@
+conda create --name blockchai
+
+
+
+conda activate blockchai
+
+conda install <packeacge> -c conda-forge
